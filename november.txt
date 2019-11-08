@@ -1,0 +1,4 @@
+Bulan ini saya harus
+- Belajar PHP OOP
+- Lanjut MVC
+--- GOALS BULAN INI SUDAH BELAJAR FRAMEWORK CODE IGNITER
